@@ -1,6 +1,8 @@
-## Olá! Seja bem-vindo!
+# Olá! Seja bem-vindo!
 
-<div style="margin-top: 100px">
+<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHoybDd5MXJyMXNwcnpraWcwZDNudzM3dTB2MThydjcwYWw4N2xsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbIavlMZE7TkcVriMM/giphy.gif"/>
+
+<div>
   <a href="https://www.linkedin.com/in/guilherme-rodrigues-machado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:guilhermerodriguesm23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://x.com/Guterzao__"><img src ="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
@@ -24,13 +26,15 @@
 
 ##
 
-<div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerodrigues17&show_icons=true&theme=tokyonight">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=guilhermerodrigues17&show_icons=true&theme=tokyonight">
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermerodrigues17&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermerodrigues17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&hide_border=false&order=1" height="150" alt="stats graph"/>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
