@@ -1,6 +1,6 @@
 # Olá! Seja bem-vindo!
 
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHoybDd5MXJyMXNwcnpraWcwZDNudzM3dTB2MThydjcwYWw4N2xsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbIavlMZE7TkcVriMM/giphy.gif"/>
+<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm53ZWJiZWI4bTY1bGludWc3N2U3bDg4ZTFyMzU1MXltcmprdGR0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 <div>
   <a href="https://www.linkedin.com/in/guilherme-rodrigues-machado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -26,9 +26,9 @@
 
 ##
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermerodrigues17&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermerodrigues17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&hide_border=false&order=1" height="150" alt="stats graph"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermerodrigues17&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermerodrigues17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&hide_border=false&order=1" height="150" alt="stats graph"/>
 </div>
 
 <div>
