@@ -27,8 +27,8 @@
 ##
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermerodrigues17&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermerodrigues17&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=guilhermerodrigues17&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&order=2" height="150" alt="languages graph"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=guilhermerodrigues17&theme=transparent&show_icons=true&hide_border=true&count_private=true"/>
 </div>
 
 <div>
